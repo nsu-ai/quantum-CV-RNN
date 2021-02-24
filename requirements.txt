@@ -1,0 +1,4 @@
+PennyLane==0.13.0
+PennyLane-SF==0.12.0
+StrawberryFields==0.17.0
+tensorflow==2.4.0
